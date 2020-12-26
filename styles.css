@@ -1,0 +1,36 @@
+.button {
+  background-color: white;
+  border: none;
+  color: white;
+  padding: 10px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.ending{
+  border-top: 1px solid #fff; position: relative; top: 10px; margin-bottom: 15px;
+}
+.divison{
+  border: 5px outset red;
+  background-color: #006400;
+  text-align: center;
+}
+
+h2{
+  padding: 60px;
+  text-align: center;
+  background-color: #006400;
+  color: white;
+  font-size: 30px;
+}
+
+h5{
+    padding: 60px;
+    text-align: center;
+    background-color: #006400;
+    color: white;
+    font-size: 30px;
+}
